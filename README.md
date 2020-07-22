@@ -5,7 +5,7 @@ We will use the Natural Language Toolkit (NLTK), a commonly used NLP library in 
 1. Python 3.6.5
 2. NLTK Package
 3. nltk.download('twitter_samples')
-   nltk.download('punkt')
-   nltk.download('wordnet')
-   nltk.download('averaged_perceptron_tagger')
-   nltk.download('stopwords')
+4. nltk.download('punkt')
+5. nltk.download('wordnet')
+6. nltk.download('averaged_perceptron_tagger')
+7. nltk.download('stopwords')
