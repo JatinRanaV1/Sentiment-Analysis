@@ -99,7 +99,7 @@ test_data = dataset[7000:]
 # 6. Building and Testing the Model
 classifier = NaiveBayesClassifier.train(train_data)
 
-print('Enter the Sentence: ')
+print('Enter the Tweet: ')
 custom_tweet = input()
 
 custom_tokens = remove_noise(word_tokenize(custom_tweet))
